@@ -1,12 +1,14 @@
 # Hi there, I'm Murat -ATALIK 👋
 
 - 🌱 I’m currently learning everything 🤣
-- 📄 My personel page muratatalik.com
+- 📄 My personel page [muratatalik.com](https://muratatalik.com)
 - ⚡ Fun fact: I love playing computer games.
 
 ---
 
 ## Connect with me:
+
+<div align="center">
 
 <a target="_blank" href="https://www.linkedin.com/in/murat-atalik/">
   <img align="left" alt="LinkdeIN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -21,6 +23,7 @@
 <a target="_blank" href="mailto:murat.atalik@outlook.com">
   <img align="left" alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+</div>
 
 <br />
 <br />
@@ -60,7 +63,7 @@
 
 ## 🏆 My Github Stats:
 
-<div>
+<div  align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=murat-atalik&theme=vision-friendly-dark">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=murat-atalik&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
@@ -68,6 +71,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murat-atalik&hide=php&theme=vision-friendly-dark" />
 </a>
 </div>
+
+---
 
 [website]: https://www.muratatalik.com
 [linkedin]: https://www.linkedin.com/in/murat-atalik/
