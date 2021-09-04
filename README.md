@@ -4,9 +4,9 @@
 - 📄 My personel page muratatalik.com
 - ⚡ Fun fact: I love playing computer games.
 
-## Connect with me:
-
 ---
+
+## Connect with me:
 
 <a target="_blank" href="https://www.linkedin.com/in/murat-atalik/">
   <img align="left" alt="LinkdeIN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -25,9 +25,9 @@
 <br />
 <br />
 
-## Languages and Tools:
-
 ---
+
+## Languages and Tools:
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
@@ -56,9 +56,9 @@
 
 <br />
 
-## 🏆 My Github Stats:
-
 ---
+
+## 🏆 My Github Stats:
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=murat-atalik&theme=vision-friendly-dark">
