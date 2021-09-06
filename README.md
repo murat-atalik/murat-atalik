@@ -8,9 +8,8 @@
 
 ---
 
-<br />
-<h3 align="left">🌱 I’m currently learning everything 🤣</h3>
-<h3 align="left">📄 My personel page [muratatalik.com](https://muratatalik.com)</h3>
+<h3 align="left">🌱 I’m currently learning React</h3>
+<h3 align="left"><a href="https://muratatalik.com">📄 My personel page </a> </h3>
 <h3 align="left">⚡ Fun fact: I love playing computer games.</h3>
 
 </p>
@@ -19,14 +18,13 @@
 
 ---
 
-<br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murat-atalik" alt="murat-atalik" /></a> </p>
 
 <br />
 
 ---
 
-<br />
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -43,8 +41,6 @@
 <br />
 
 ---
-
-<br />
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
