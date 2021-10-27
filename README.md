@@ -119,4 +119,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murat-atalik&show_icons=true&locale=en" alt="murat-atalik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murat-atalik&" alt="murat-atalik" /></p>
+
