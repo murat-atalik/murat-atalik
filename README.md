@@ -8,8 +8,8 @@
 
 ---
 
-- 🌱 I’m currently learning React/
-- <a href="https://muratatalik.com">📄 My personel page </a> 
+- 🌱 I’m currently learning React Native/React
+- <a href="https://muratatalik.com">📄 My personel page </a>
 - ⚡ Fun fact: I love playing computer games./
 
 - 📫 How to reach me **murat.atalik@outlook.com**
@@ -32,7 +32,6 @@
 <br />
 
 ---
-
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
@@ -109,6 +108,7 @@
 <br />
 
 ### 📊 GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/murat-atalik">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=murat-atalik&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="murat-atalik"/>
