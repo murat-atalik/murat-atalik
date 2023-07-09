@@ -23,9 +23,6 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/murat-atalik" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="murat-atalik" height="30"  /></a>
-<a href="https://instagram.com/murat-atalik" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="murat-atalik" height="30" /></a>
-<a target="_blank" href="https://t.me/murat_atalik">
-<img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  alt="telegram" height="30" /></a>
 
 </p>
 
